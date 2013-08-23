@@ -14,5 +14,16 @@ The raft is slightly optimized to use less material and has proven mostly necess
 
 Supports are not as optimized but are necessary for good prints.
 
+*How to prepare a profile*
+The profiles by default are generally "unconfigured".  They are just left over from what the previous print had.
+
+So, there are a few things that you need to do before you prepare for prints.
+
+(1) Choose whether you want a raft or not (Warp reduce should *always* be printed with a raft to reduce warp.) ... The doRaft variable is set to "false" if you do not want a raft and "true" if you do want a raft.
+
+(2) Choose which filament you want to print with... You only need to copy the filament diameter and Feed Stock Ratio into the profile from your respective filament name.  Do this for each extruder (because nobody really knows which one we actually use... ... ...).
+
+(3) (optional) Turn Supports on or off.  Use the doSupport variable for this.  It works the same way as the doRaft variable.
+
 * Contact *
 For further questions, you may contact Brandon.  blu006 at ucr dot edu.

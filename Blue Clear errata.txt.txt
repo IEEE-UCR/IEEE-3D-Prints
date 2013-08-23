@@ -1,0 +1,6 @@
+Blue Clear Filament:
+Measured to be ~1.77mm
+Feed Stock multiplier: 0.93
+
+Other Notes:
+Filament is considered a more or less "standard" filament.
