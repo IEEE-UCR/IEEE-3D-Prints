@@ -1,5 +1,6 @@
 White Filament
 Measured diameter: ~1.72mm
 Feed Stock Multiplier: 0.90
+Extrude Extra (testing): 0.05mm
 
 Filament is oddly compressible and requires slower speeds to compensate.  Theoretically has water retention problems.

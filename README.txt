@@ -21,7 +21,7 @@ So, there are a few things that you need to do before you prepare for prints.
 
 (1) Choose whether you want a raft or not (Warp reduce should *always* be printed with a raft to reduce warp.) ... The doRaft variable is set to "false" if you do not want a raft and "true" if you do want a raft.
 
-(2) Choose which filament you want to print with... You only need to copy the filament diameter and Feed Stock Ratio into the profile from your respective filament name.  Do this for each extruder (because nobody really knows which one we actually use... ... ...).
+(2) Choose which filament you want to print with... You only need to copy the filament diameter and Feed Stock Ratio and Extrude Extra into the profile from your respective filament name.  Do this for each extruder (because nobody really knows which one we actually use... ... ...).
 
 (3) (optional) Turn Supports on or off.  Use the doSupport variable for this.  It works the same way as the doRaft variable.
 

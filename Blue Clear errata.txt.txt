@@ -1,6 +1,7 @@
 Blue Clear Filament:
 Measured to be ~1.77mm
 Feed Stock multiplier: 0.93
+Extrude Extra: -0.05mm
 
 Other Notes:
 Filament is considered a more or less "standard" filament.

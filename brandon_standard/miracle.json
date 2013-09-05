@@ -43,19 +43,19 @@
     "platformTemp": 0, 
 
     "numberOfShells": 2, 
-    "infillShellSpacingMultiplier": 0.9, 
-    "insetDistanceMultiplier": 0.4, 
+    "infillShellSpacingMultiplier": 0.8, 
+    "insetDistanceMultiplier": 0.95, 
 
     "roofThickness": 0.5, 
-    "roofLayerCount_disabled": 4, 
+    "roofLayerCount": 4, 
     "roofAnchorMargin": 0.4,
     "floorThickness": 0.5, 
-    "floorLayerCount_disabled": 4, 
+    "floorLayerCount": 4, 
 
     "coarseness": 0.0001, 
 
     "sparseInfillPattern": "hexagonal", 
-    "infillDensity": 1, 
+    "infillDensity": 0.1, 
     "infillOrientationOffset": 0,
     "infillOrientationInterval": 90, 
     "infillOrientationRange": 90,
@@ -98,7 +98,7 @@
     "raftInterfaceLayers": 1, 
     "raftInterfaceThickness": 0.3, 
     "raftInterfaceWidth": 0.5, 
-    "raftModelSpacing": 0.20, 
+    "raftModelSpacing": 0.25, 
     "raftOutset": 4, 
     "raftSurfaceAngle": 0, 
     "raftSurfaceLayers": 1, 
@@ -132,12 +132,12 @@
 
     "extruderProfiles": [
         {
-            "feedDiameter": 1.77, 
+            "feedDiameter": 1.72, 
             "feedstockMultiplier": 0.93, 
             "nozzleDiameter": 0.4, 
             
-            "retractDistance": 1.3, 
-            "restartExtraDistance": -0.05, 
+            "retractDistance": 1.5, 
+            "restartExtraDistance": 0.00, 
             "retractRate": 25,
             
             "bridgesExtrusionProfile": "bridges", 
@@ -149,12 +149,12 @@
             "raftBaseExtrusionProfile": "raftbase"
         }, 
         {
-            "feedDiameter": 1.77, 
+            "feedDiameter": 1.72, 
             "feedstockMultiplier": 0.93, 
             "nozzleDiameter": 0.4, 
             
-            "retractDistance": 1.3, 
-            "restartExtraDistance": -0.05, 
+            "retractDistance": 1.5, 
+            "restartExtraDistance": 0.00, 
             "retractRate": 25,
             
             "bridgesExtrusionProfile": "bridges", 

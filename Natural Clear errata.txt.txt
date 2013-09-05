@@ -1,5 +1,6 @@
 Natural Clear Filament Errata
 Filament size: ~1.78mm
 Feed Stock Multiplier: 0.97
+Extrude Extra: -0.05mm
 
 This filament is considered one of the hardest filaments to print with.  We do not support this filament any more.

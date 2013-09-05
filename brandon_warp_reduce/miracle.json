@@ -173,7 +173,7 @@
         }, 
         "firstlayer": {
             "feedrate": 60, 
-            "temperature_disabled": 230.0
+            "temperature": 235.0
         }, 
         "firstlayerraft": {
             "feedrate": 20, 
@@ -181,19 +181,19 @@
         }, 
         "infill": {
             "feedrate": 90, 
-            "temperature_disabled": 230.0
+            "temperature": 230.0
         }, 
         "insets": {
             "feedrate": 80, 
-            "temperature_disabled": 230.0
+            "temperature": 230.0
         }, 
         "outlines": {
             "feedrate": 60, 
-            "temperature_disabled": 230.0
+            "temperature": 230.0
         }, 
         "raftbase": {
             "feedrate": 20, 
-            "temperature_disabled": 230.0
+            "temperature": 235.0
         }
     }
 }
