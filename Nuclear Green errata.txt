@@ -1,0 +1,4 @@
+Nuclear Green Filament
+Measured diameter: ~1.78mm
+Feed Stock Multiplier: 0.93
+Extrude Extra (testing): 0.00mm

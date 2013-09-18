@@ -1,6 +1,6 @@
 Black Filament
 Measured diameter: ~1.72mm
 Feed Stock Multiplier: 0.93
-Extrude Extra (testing): 0.00mm
+Extrude Extra: 0.00mm
 
 Filament is rather easy to print with despite the low price...
